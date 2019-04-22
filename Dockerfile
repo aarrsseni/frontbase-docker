@@ -1,5 +1,5 @@
 # build : docker build -t frontbase-docker .
-# run : docker run -d -p 20020:20020 -p 30001:30001 -it --name frontbase frontbase-docker
+# run : docker run -d -p 20020:20020 -p 30001:30001 -it --name frontbase aarrsseni/frontbase-docker
 
 FROM centos:6.6
 
