@@ -1,3 +1,3 @@
-- This container run FrontBase database.
-- Start database called testDb opened on 30001 port.
+- This container runs FrontBase database.
+- Database named 'testDb' starts on 30001 port.
 - Use `jdbc:frontbase://localhost/testDb` to connect.
